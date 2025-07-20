@@ -68,7 +68,26 @@ This project was created to demonstrate real-time business intelligence capabili
 
 4. Improve strategic decision-making with visual insights
 
+📌 Business Impact
+The Amazon Sales Report Dashboard empowers businesses with actionable insights to enhance operational efficiency and strategic planning:
+
+📦 Improved Inventory Management
+By identifying top-selling categories and popular product sizes, businesses can optimize stock levels and reduce overstock or stockouts.
+
+🚚 Efficient Logistics & Fulfillment
+Analysis of courier status and delivery partners helps in monitoring shipment performance, improving delivery timelines, and minimizing delays.
+
+📍 Targeted Regional Strategies
+Understanding shipping trends by state allows businesses to focus marketing, promotions, and logistics in high-performing regions.
+
+💰 Revenue Optimization
+With a clear view of sales trends and fulfillment performance, businesses can refine pricing strategies and boost profitability.
+
+📊 Data-Driven Decisions
+Visualizing key metrics fosters informed decision-making at every level—from operations to leadership—ultimately driving growth.
+
 📷 Dashboard Preview
+https://github.com/SatishY21/Amazon_Sales_Report_Dashboard/blob/main/Amazon%20Sales%20Report%20Dashboard.png
 
 
 

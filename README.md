@@ -86,7 +86,7 @@ With a clear view of sales trends and fulfillment performance, businesses can re
 📊 Data-Driven Decisions
 Visualizing key metrics fosters informed decision-making at every level—from operations to leadership—ultimately driving growth.
 
-📷 Dashboard Preview
+📷 Dashboard Preview:
 https://github.com/SatishY21/Amazon_Sales_Report_Dashboard/blob/main/Amazon%20Sales%20Report%20Dashboard.png
 
 

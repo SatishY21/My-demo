@@ -1,5 +1,6 @@
 # 📊 Amazon Sales Report Dashboard
 📝 Description
+
 A comprehensive and interactive Power BI dashboard that visualizes Amazon sales data to uncover key business insights. This dashboard helps track sales performance, order fulfillment status, delivery partners, product categories, and shipping locations. It supports data-driven decision-making for better inventory, logistics, and category planning.
 
 💻 Tech Stack
